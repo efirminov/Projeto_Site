@@ -6,7 +6,7 @@
 body{
     background-color: rgb(204, 157, 248);
 }
-main{
+main , footer{
     background-color: white;
     width: 500px;
     margin: auto;
